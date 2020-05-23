@@ -17,6 +17,6 @@ open git command (git Bash) then open folder(i.e shoppingApp) in git command
                              git merge origin
 using the above  command							 
  
- add-stage
- commit-package
+ add-stage changes
+ commit-package created
  remote-live
