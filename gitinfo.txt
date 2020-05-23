@@ -6,11 +6,11 @@ download github SCM
 verify the account then open git homepage  then create repository  i.e shopping project and choose (private or public ) repository for the git project. and successully create.
 open git command (git Bash) then open folder(i.e shoppingApp) in git command 
  git command are as follows:
-                             git init
+                             git init:initiliza zalya
 							 git status
-						     git add.
+						     git add.-file 
                              git commit-m "msg"
-                             git remote add origin "url"
+                             git remote add origin "url": current derectory  url :push
                              git push origin masters
                              git pull origin
                              git branch "branch name"
@@ -20,3 +20,4 @@ using the above  command
  add-stage changes
  commit-package created
  remote-live
+ -f=force fully run
