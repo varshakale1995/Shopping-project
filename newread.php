@@ -1,1 +1,2 @@
-chammume tula 15 mintat parat call krto ok na
+chammuuu bet ahes fakt tu ,
+ nit paha sagale ata apan parat sagale pahilyapasun explain karuyat okk using new project
