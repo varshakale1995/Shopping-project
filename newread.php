@@ -1,0 +1,1 @@
+chammume tula 15 mintat parat call krto ok na
