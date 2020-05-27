@@ -26,3 +26,6 @@ using the above  command
 
 
 *khup mar khanar ahe tu*
+
+
+1.this is akshay first commit
